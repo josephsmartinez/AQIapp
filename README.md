@@ -1,4 +1,4 @@
-# Simple Python Appplication
+# Simple Python Application
 
 ## Run with Docker
 
